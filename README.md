@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad AbdurRehman</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani12398" alt="mani12398" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/muhammad10122" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad10122?logo=twitter&style=for-the-badge" alt="muhammad10122" /></a> </p>
 
