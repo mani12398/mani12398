@@ -1,8 +1,7 @@
-![logo](https://github.com/mani12398/mani12398/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad AbdurRehman</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3></p>
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mani12398&label=Profile%20views&color=0e75b6&style=flat" alt="mani12398" /> 
+<h3 align="center">A passionate full stack developer from Pakistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mani12398&label=Profile%20views&color=0e75b6&style=flat" alt="mani12398" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani12398" alt="mani12398" /></a> </p>
 
@@ -21,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/muhammad10122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammad10122" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15311564/muhammad-abdur-rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15311564/muhammad-abdur-rehman" height="30" width="40" /></a>
 <a href="https://fb.com/mani123987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mani123987" height="30" width="40" /></a>
 <a href="https://instagram.com/ar_rehman021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ar_rehman021" height="30" width="40" /></a>
 </p>
@@ -33,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mani12398&show_icons=true&locale=en" alt="mani12398" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mani12398&" alt="mani12398" /></p>
-
