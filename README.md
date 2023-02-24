@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/muhammad10122" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad10122?logo=twitter&style=for-the-badge" alt="muhammad10122" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter, HTML, CSS, JS, MongoDB, JAVA, Visio, Firebase, React, MS Office**
+- 🔭 I’m currently working on **Flutter, HTML, CSS, JS, MongoDB, JAVA, Visio, Firebase, React, MS Office, WPF**
 
-- 🌱 I’m currently learning **Flutter, HTML, CSS, JS, MongoDB, JAVA, Visio, Firebase, React, MS Office**
+- 🌱 I’m currently learning **Flutter, HTML, CSS, JS, MongoDB, JAVA, Visio, Firebase, React, MS Office, WPF**
 
-- 💬 Ask me about **C++, C, C#, MySQL, MSSQL, Excel, Flutter, HTML, CSS, JS, MongoDB, JAVA, Visio, Firebase, React, MS Office**
+- 💬 Ask me about **C++, C, C#, MySQL, MSSQL, Excel, Flutter, HTML, CSS, JS, MongoDB, JAVA, Visio, Firebase, React, MS Office, WPF**
 
 - 📫 How to reach me **muhammadabdurrehman516@gmail.com**
 
