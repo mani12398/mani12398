@@ -46,6 +46,9 @@ Operating Systems:
 • Linux
 • VirtualBox
 
+API:
+• Google API
+
 Integrated Development Environments (IDEs) and Tools:
 • Visual Studio
 • Visual Studio Code (VS Code)
@@ -56,10 +59,7 @@ Integrated Development Environments (IDEs) and Tools:
 • DOSBox
 • Debug 64
 • Xilinx ISEs
-• Cisco Packet Tracer
-
-API:
-• Google API**
+• Cisco Packet Tracer**
 
 - 📫 How to reach me **muhammadabdurrehman516@gmail.com** **+92 331 9929779**
 
