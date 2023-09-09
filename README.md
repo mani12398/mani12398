@@ -10,6 +10,58 @@
 <p align="left"> <a href="https://twitter.com/muhammad10122" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad10122?logo=twitter&style=for-the-badge" alt="muhammad10122" /></a> </p>
 
 - 💬 Ask me about **C++, C, C#, MySQL, MSSQL, Excel, Flutter, HTML, CSS, JS, MongoDB, JAVA, Visio, Firebase, React, MS Office, WPF, Bootstrap, WordPress, Assembly, Shopify, CISCO Packet Tracer**
+- **Programming Languages:
+• C++
+• C#
+• C
+• Java
+• Dart
+• HTML
+• CSS
+• JavaScript
+
+Frameworks and Libraries:
+• WPF (Windows Presentation Foundation)
+• XAML
+• Flutter
+• React
+• Bootstrap
+
+Content Management Systems (CMS):
+• WordPress
+• Shopify
+
+Assembly Languages and Tools:
+• Assembly Language
+• Microsoft Macro Assembler (MASM)
+
+Database Management Systems:
+• MySQL
+• MS SQL
+• MongoDB
+• Firebase
+
+Operating Systems:
+• Windows
+• Ubuntu
+• Linux
+• VirtualBox
+
+Integrated Development Environments (IDEs) and Tools:
+• Visual Studio
+• Visual Studio Code (VS Code)
+• Eclipse
+• IntelliJ IDEA
+• MS Office
+• Canva
+• DOSBox
+• Debug 64
+• Xilinx ISEs
+• Cisco Packet Tracer
+
+API:
+• Google API
+**
 
 - 📫 How to reach me **muhammadabdurrehman516@gmail.com** **+92 331 9929779**
 
