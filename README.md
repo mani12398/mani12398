@@ -9,13 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/muhammad10122" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad10122?logo=twitter&style=for-the-badge" alt="muhammad10122" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter, HTML, CSS, JS, MongoDB, JAVA, Visio, Firebase, React, MS Office, WPF, Bootstrap, WordPress, Assembly, Shopify, CISCO Packet Tracer**
-
-- 🌱 I’m currently learning **Flutter, HTML, CSS, JS, MongoDB, JAVA, Visio, Firebase, React, MS Office, WPF, Bootstrap, WordPress, Assembly, Shopify, CISCO Packet Tracer**
-
 - 💬 Ask me about **C++, C, C#, MySQL, MSSQL, Excel, Flutter, HTML, CSS, JS, MongoDB, JAVA, Visio, Firebase, React, MS Office, WPF, Bootstrap, WordPress, Assembly, Shopify, CISCO Packet Tracer**
 
-- 📫 How to reach me **muhammadabdurrehman516@gmail.com**
+- 📫 How to reach me **muhammadabdurrehman516@gmail.com** **+92 331 9929779**
 
 - ⚡ Fun fact **I am dedicated to my work**
 
