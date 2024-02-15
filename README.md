@@ -19,7 +19,7 @@
 • CSS
 • JavaScript
 • Phython
-
+• Node JS
 
 Frameworks and Libraries:
 • WPF (Windows Presentation Foundation)
@@ -72,7 +72,10 @@ Integrated Development Environments (IDEs) and Tools:
 • Loom
 • Click Up
 • Block Codes
-• Jet Brains 
+• Jet Brains
+• Google Cloud Console
+• AWS
+• Mocean
 • Cisco Packet Tracer**
 
 - 📫 How to reach me **muhammadabdurrehman516@gmail.com** **+92 331 9929779**
