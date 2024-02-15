@@ -18,7 +18,7 @@
 • HTML
 • CSS
 • JavaScript
-• Phython
+• Python
 • Node JS
 
 Frameworks and Libraries:
