@@ -31,6 +31,7 @@ Frameworks and Libraries:
 Content Management Systems (CMS):
 • WordPress
 • Shopify
+• SEO
 
 Assembly Languages and Tools:
 • Assembly Language
@@ -57,6 +58,8 @@ Integrated Development Environments (IDEs) and Tools:
 • Eclipse
 • IntelliJ IDEA
 • PyCharm 
+• Google Colab
+• Kaggle
 • MS Office
 • Canva
 • DOSBox
@@ -65,6 +68,11 @@ Integrated Development Environments (IDEs) and Tools:
 • Git
 • GitHub
 • Figma
+• Slack
+• Loom
+• Click Up
+• Block Codes
+• Jet Brains 
 • Cisco Packet Tracer**
 
 - 📫 How to reach me **muhammadabdurrehman516@gmail.com** **+92 331 9929779**
