@@ -18,6 +18,8 @@
 • HTML
 • CSS
 • JavaScript
+• Phython
+
 
 Frameworks and Libraries:
 • WPF (Windows Presentation Foundation)
@@ -54,11 +56,15 @@ Integrated Development Environments (IDEs) and Tools:
 • Visual Studio Code (VS Code)
 • Eclipse
 • IntelliJ IDEA
+• PyCharm 
 • MS Office
 • Canva
 • DOSBox
 • Debug 64
 • Xilinx ISEs
+• Git
+• GitHub
+• Figma
 • Cisco Packet Tracer**
 
 - 📫 How to reach me **muhammadabdurrehman516@gmail.com** **+92 331 9929779**
